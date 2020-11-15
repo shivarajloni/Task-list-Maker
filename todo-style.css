@@ -55,8 +55,8 @@ form button:hover{
 
 .todo{
     margin: 0.5rem;
-    background: white;
-    color: black;
+    background: rgb(187, 187, 185);
+    color: rgb(150, 40, 150);
     font-size: 1.5rem;
     display: flex;
     justify-content: center;
